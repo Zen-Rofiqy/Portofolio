@@ -829,6 +829,14 @@ main {
   line-height: 1.6;
 }
 
+.timeline-text ul {
+  margin-left: 20px;
+}
+
+.timeline-text ul li {
+  list-style-type: disc;
+}
+
 
 /**
  * skills 
